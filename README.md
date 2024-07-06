@@ -14,9 +14,16 @@
   옷을 좋아합니다.👔
 </div>
 <div align="center">
- 사진에 관심이 있습니다.📷
+ 사진에 관심이 있습니다.📷  
 </div>
 
+<h3 align="center">🎮 6th Year VR Game User 🎮</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/VRChat-ffffff.svg?style=for-the-badge&logo=livechat&logoColor=000000" />&nbsp
+</div>
+<h4 align="center">
+  HTC VIVE / HTC VIVE Tracker 2.0 / Valve Index® Controllers
+</4>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=fffff" />&nbsp
@@ -38,6 +45,18 @@
   <img src="https://img.shields.io/badge/adobe%20lightroom-08253c.svg?style=for-the-badge&logo=adobelightroom&logoColor=#9999FF" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-08253c.svg?style=for-the-badge&logo=adobepremierepro&logoColor=#9999FF" />&nbsp
 </div>
+
+<h3 align="center">📷 Camera 📷</h3>
+<h4 align="center">
+  Canon EOS R50 / EF 24-105mm F4L IS USM / RF-S 18-45mm F4.5-6.3 IS STM
+</h4>
+
+<h3 align="center">👕 Fashion 👖</h3>
+<h4 align="center">
+  <img src="https://img.shields.io/badge/nike-111111.svg?style=for-the-badge&logo=nike&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Adidas-000000.svg?style=for-the-badge&logo=adidas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/newbalance-CF0A2C.svg?style=for-the-badge&logo=newbalance&logoColor=white" />&nbsp  
+</h4>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
