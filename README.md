@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=fffff" />&nbsp
   <img src="https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=fffff" />&nbsp
+  <img src="https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=CSS3&logoColor=fffff" />&nbsp
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=fffff" />&nbsp
   <img src="https://img.shields.io/badge/node.JS-20232a.svg?style=for-the-badge&logo=node.JS&logoColor=5FA04E" />&nbsp
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=#47A248" />&nbsp
