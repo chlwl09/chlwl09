@@ -13,11 +13,11 @@
 <div align="center">
  사진에 관심이 있습니다.📷  
 </div>
-
+<!--
 <h3 align="center">🎮 6th Year VR Game User 🎮</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/VRChat-ffffff.svg?style=for-the-badge&logo=livechat&logoColor=000000" />&nbsp
-</div>
+</div> -->
 <h4 align="center">
   HTC VIVE / HTC VIVE Tracker 2.0 / Valve Index® Controllers
 </4>
