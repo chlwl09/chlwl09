@@ -52,13 +52,6 @@
   Canon EOS R50 / EF 24-105mm F4L IS USM / RF-S 18-45mm F4.5-6.3 IS STM
 </h4>
 
-<h3 align="center">👕 Fashion 👖</h3>
-<h4 align="center">
-  <img src="https://img.shields.io/badge/nike-111111.svg?style=for-the-badge&logo=nike&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Adidas-000000.svg?style=for-the-badge&logo=adidas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/newbalance-CF0A2C.svg?style=for-the-badge&logo=newbalance&logoColor=white" />&nbsp  
-</h4>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@thrma0727">
