@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-
+<div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20lightroom-08253c.svg?style=for-the-badge&logo=adobelightroom&logoColor=#9999FF" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-08253c.svg?style=for-the-badge&logo=adobepremierepro&logoColor=#9999FF" />&nbsp
@@ -46,8 +46,7 @@
 
 <h3 align="center">🛠 Using SDK 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Udon-08253c.svg?style=for-the-badge&logo=&logoColor=#9999FF" />&nbsp
-  <h4>VRChat SDK</h4>
+  <img src="https://img.shields.io/badge/VRChat%20SDKUdon-08253c.svg?style=for-the-badge&logo=&logoColor=#9999FF" />&nbsp
 </div>
 
 <h3 align="center">📷 Camera 📷</h3>
