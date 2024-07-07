@@ -11,9 +11,6 @@
   게임제작 그리고 웹, 서버에 관심이 있습니다.🕹
 </div>
 <div align="center">
-  옷을 좋아합니다.👔
-</div>
-<div align="center">
  사진에 관심이 있습니다.📷  
 </div>
 
