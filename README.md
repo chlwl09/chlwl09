@@ -51,7 +51,6 @@
 
 <h3 align="center">📷 Camera 📷</h3>
 <h4 align="center">
-  Canon EOS R50 / EF 24-105mm F4L IS USM / RF-S 18-45mm F4.5-6.3 IS STM
   FujiFilm X-H1 / XF 16-80mm F4 R OIS WR
 </h4>
 
