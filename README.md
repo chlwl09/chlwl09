@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/VRChat-ffffff.svg?style=for-the-badge&logo=livechat&logoColor=000000" />&nbsp
 </div>
 <h4 align="center">
-  HTC VIVE / HTC VIVE Tracker 2.0 / Valve Index® Controllers
-</4>
+  Meta Quest 2 / HTC VIVE / HTC VIVE Tracker 2.0 / Valve Index® Controllers
+</h4>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-20232a.svg?style=for-the-badge&logo=&logoColor=fffff" />&nbsp
