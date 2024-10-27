@@ -11,7 +11,7 @@
   게임제작 그리고 웹, 서버에 관심이 있습니다.🕹
 </div>
 <div align="center">
- 사진에 관심이 있습니다.📷  
+ 사진 취미를 가지고 있습니다.📷  
 </div>
 
 <h3 align="center">🎮 6th Year VR Game User 🎮</h3>
